@@ -12,18 +12,37 @@
 </head>
 <body>
     <header>
-        <!-- main menu -->
-            <div class="bg-dark-subtle">
-                <!-- logo -->
-                <div class="logo">
+                <!--HEADER navbar -->  
+            <nav class="navbar navbar-expand-lg bg-body-tertiary" data-bs-theme="dark">
+                <div class="container-fluid">
+                    <a class="navbar-brand" href="#">
                     <img src="./img/duck.png" alt="duck logo" width="60px">
+                    </a>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="#">Catalogo Libri</a>
+                        </li>
+                        <li class="nav-item">
+                        <a class="nav-link" href="#">Anagrafica Utenti</a>
+                        </li>
+                        <li class="nav-item">
+                        <a class="nav-link" href="#">Storico Prestiti</a>
+                        </li>
+                        <li class="nav-item">
+                        <a class="nav-link" href="#">Help</a>
+                        </li>
+                    </ul>
+                    <form class="d-flex" role="search">
+                        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                        <button class="btn btn-outline-light" type="submit">Search</button>
+                    </form>
+                    </div>
                 </div>
-                <!-- navbar -->
-                <div class="navbar">
-                    navbar
-                </div>
-            </div>
-
+                </nav>
     </header>
     <main>
 
