@@ -11,15 +11,16 @@ L'interfaccia consente agli utenti di visualizzare i libri, monitorare i prestit
   <img src="/demo-icon/font-awesome-icon.png" width="50" />
 </div>
 
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDYzdTVzZjFuMmY2bWJ5c3M4dGZsYjlhOXJyeGQ1NHYzMmM4dTRoaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" width="250px" />
+
 ## 📷 Anteprima
 
 <div style="display: flex; gap: 30px; justify-content: space-between; max-width: 700px">
 <img src="/demo-icon/mobile.png" alt="layout S" width="100">
 <img src="/demo-icon/tablet.png" alt="layout M" width="150">
-<img src="/demo-icon/desktop.png" alt="layout L" width="250" height="250>
+<img src="/demo-icon/desktop.png" alt="layout L" width="250" height="250">
 </div>
 
-## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDYzdTVzZjFuMmY2bWJ5c3M4dGZsYjlhOXJyeGQ1NHYzMmM4dTRoaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" width="250px" />
 
 ## Sponsor
 <img src="/demo-icon/boolean-Logo.png" alt="layout S" width="200">
