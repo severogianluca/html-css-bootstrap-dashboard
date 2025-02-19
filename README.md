@@ -18,7 +18,7 @@ L'interfaccia consente agli utenti di visualizzare i libri, monitorare i prestit
 <div style="display: flex; gap: 30px; justify-content: space-between; max-width: 700px">
 <img src="/demo-icon/mobile.png" alt="layout S" width="100">
 <img src="/demo-icon/tablet.png" alt="layout M" width="150">
-<img src="/demo-icon/desktop.png" alt="layout L" width="250" height="250">
+<img src="/demo-icon/desktop.png" alt="layout L" width="250" height="200">
 </div>
 
 
