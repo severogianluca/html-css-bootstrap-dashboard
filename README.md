@@ -13,8 +13,13 @@ L'interfaccia consente agli utenti di visualizzare i libri, monitorare i prestit
 
 ## 📷 Anteprima
 
+<div style="display: flex; gap: 30px;">
 <img src="/demo-icon/mobile.png" alt="layout S" width="100">
-<img src="/demo-icon/tablet.png" alt="layout M" width="100">
-<img src="/demo-icon/desktop.png" alt="layout L" width="100">
+<img src="/demo-icon/tablet.png" alt="layout M" width="150">
+<img src="/demo-icon/desktop.png" alt="layout L" width="150">
+</div>
 
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDYzdTVzZjFuMmY2bWJ5c3M4dGZsYjlhOXJyeGQ1NHYzMmM4dTRoaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" width="250px" />
 
+## Sponsor
+<img src="/img/boolean-logo.png" alt="layout S" width="200">
