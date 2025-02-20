@@ -18,14 +18,14 @@ L'interfaccia consente agli utenti di visualizzare i libri, monitorare i prestit
 <div style="display: flex; gap: 30px; justify-content: space-between; max-width: 700px">
 <img src="/screenshot/mobile.png" alt="layout S" width="100">
 <img src="/demo-icon/tablet.png" alt="layout M" width="150">
-<img src="/demo-icon/desktop.png" alt="layout L" width="250" height="150">
+<img src="/demo-icon/desktop.png" alt="layout L" width="300">
 </div>
 
 ## 📷 Anteprima day 2
 
 <div style="display: flex; gap: 30px; justify-content: space-between; max-width: 700px">
 <img src="screenshot/mobile-new-book.png" alt="layout S" width="100">
-<img src="screenshot/desktop-new-book.png" alt="layout L" width="200">
+<img src="screenshot/desktop-new-book.png" alt="layout L" width="300">
 </div>
 
 ## Sponsor
